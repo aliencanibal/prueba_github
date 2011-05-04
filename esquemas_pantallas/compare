@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" x="32" y="-8" width="1318" height="1089" text="Browser&#xA;http://comoestaelpanorama.com" measuredWidth="1318" measuredHeight="1089"/>
+  <widgets xsi:type="model:Panel" x="692" y="47" width="644" height="884" measuredWidth="644" measuredHeight="884" background="#fff2cc"/>
+  <widgets xsi:type="model:Image" x="528" y="96"/>
+  <widgets xsi:type="model:Rectangle" x="700" y="854" width="625" height="65" measuredWidth="625" measuredHeight="65">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="700" y="669" width="625" height="172" measuredWidth="625" measuredHeight="172">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="701" y="472" width="625" height="193" measuredWidth="625" measuredHeight="193">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="701" y="296" width="625" height="165" measuredWidth="625" measuredHeight="165">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Map" x="701" y="126" width="609" height="131" measuredWidth="609" measuredHeight="131"/>
+  <widgets xsi:type="model:Callout" x="928" y="160" text="1201/871" measuredWidth="68" measuredHeight="68" background="#ff0000">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:ScratchOut" x="714" y="329" width="532" height="106" measuredWidth="532" measuredHeight="106" foreground="#ff0000"/>
+  <widgets xsi:type="model:Label" x="714" y="309" text="Parados en Pontevedra (3250)" measuredWidth="223" measuredHeight="25" foreground="#ff0000">
+    <font size="14" bold="true" underline="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="725" y="434" text="2006" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="813" y="434" text="2007" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="929" y="434" text="2008" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="1037" y="440" text="2009" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="1149" y="440" text="2010" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="1229" y="434" text="2011" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="704" text="Almacenero/a" measuredWidth="78" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="721" text="Administrativa" measuredWidth="81" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="738" text="Técnico/a en Autocad y SolidWorks" measuredWidth="192" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="755" text="Vigo, Abogado Legal con más de 5 años de experiencia" measuredWidth="299" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="772" text="Comerciales para venta de páginas web" measuredWidth="215" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="789" text="Responsable Técnico/a Comercial" measuredWidth="184" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="714" y="678" text="Ofertas de trabajo en Pontevedra (1520)" measuredWidth="297" measuredHeight="25" foreground="#10970f">
+    <font size="14" bold="true" underline="true"/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="807" text="mas ofertas en Vigo ..." measuredWidth="124" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:ScratchOut" x="717" y="529" width="541" height="106" measuredWidth="541" measuredHeight="106" foreground="#10970f"/>
+  <widgets xsi:type="model:Label" x="717" y="509" text="Nuevos contratos" measuredWidth="114" measuredHeight="23" foreground="#10970f">
+    <font size="12" bold="true" underline="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="713" y="635" text="2006" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="821" y="634" text="2007" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="936" y="634" text="2008" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="1053" y="634" text="2009" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="1165" y="634" text="2010" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="1240" y="634" text="2011" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="701" y="86" text="El empleo en Pontevedra está ... " measuredWidth="337" measuredHeight="31">
+    <font size="20" bold="true" underline="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="717" y="479" text="Creación de empleo en Pontevedra" measuredWidth="255" measuredHeight="25" foreground="#10970f">
+    <font size="14" bold="true" underline="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="1040" y="91" text="jodido" measuredWidth="51" measuredHeight="25" foreground="#ff0000">
+    <font size="14" bold="true" underline="true"/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="874" text="Vigo (1201/871)" measuredWidth="93" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="894" text="Gondomar (7/9)" measuredWidth="90" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="843" y="874" text="Porriño (120/561)" measuredWidth="100" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="843" y="894" text="Nigrán (34/12)" measuredWidth="83" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="714" y="854" text="El empleo cerca de Pontevedra" measuredWidth="208" measuredHeight="24">
+    <font size="13" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" x="1173" y="96"/>
+  <widgets xsi:type="model:Icon" x="1197" y="94" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="1285" y="94" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="1219" y="94" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="1240" y="94" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="1261" y="94" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:WidgetGroup" x="55" y="50" measuredWidth="626" measuredHeight="1013">
+    <widgets xsi:type="model:Rectangle" y="878" width="625" height="135" measuredWidth="625" measuredHeight="135">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" y="804" width="625" height="65" measuredWidth="625" measuredHeight="65">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" y="619" width="625" height="172" measuredWidth="625" measuredHeight="172">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" x="1" y="422" width="625" height="193" measuredWidth="625" measuredHeight="193">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" x="1" y="246" width="625" height="165" measuredWidth="625" measuredHeight="165">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Map" x="1" y="76" width="609" height="131" measuredWidth="609" measuredHeight="131"/>
+    <widgets xsi:type="model:Callout" x="228" y="110" text="1201/871" measuredWidth="68" measuredHeight="68" background="#ff0000">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:ScratchOut" x="14" y="279" width="532" height="106" measuredWidth="532" measuredHeight="106" foreground="#ff0000"/>
+    <widgets xsi:type="model:Label" x="14" y="259" text="Parados en Vigo (3250)" measuredWidth="174" measuredHeight="25" foreground="#ff0000">
+      <font size="14" bold="true" underline="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="25" y="384" text="2006" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="113" y="384" text="2007" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="229" y="384" text="2008" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="337" y="390" text="2009" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="449" y="390" text="2010" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="529" y="384" text="2011" measuredWidth="33" measuredHeight="21" foreground="#ff0000">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="654" text="Almacenero/a" measuredWidth="78" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="671" text="Administrativa" measuredWidth="81" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="688" text="Técnico/a en Autocad y SolidWorks" measuredWidth="192" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="705" text="Vigo, Abogado Legal con más de 5 años de experiencia" measuredWidth="299" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="722" text="Comerciales para venta de páginas web" measuredWidth="215" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="739" text="Responsable Técnico/a Comercial" measuredWidth="184" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="14" y="628" text="Ofertas de trabajo en Vigo (1520)" measuredWidth="248" measuredHeight="25" foreground="#10970f">
+      <font size="14" bold="true" underline="true"/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="757" text="mas ofertas en Vigo ..." measuredWidth="124" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:ScratchOut" x="17" y="479" width="541" height="106" measuredWidth="541" measuredHeight="106" foreground="#10970f"/>
+    <widgets xsi:type="model:Label" x="17" y="459" text="Nuevos contratos" measuredWidth="114" measuredHeight="23" foreground="#10970f">
+      <font size="12" bold="true" underline="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="13" y="585" text="2006" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="121" y="584" text="2007" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="236" y="584" text="2008" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="353" y="584" text="2009" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="465" y="584" text="2010" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="540" y="584" text="2011" measuredWidth="33" measuredHeight="21" foreground="#10970f">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="1" y="36" text="El empleo en Vigo está ... " measuredWidth="268" measuredHeight="31">
+      <font size="20" bold="true" underline="true"/>
+    </widgets>
+    <widgets xsi:type="model:Note" x="268" y="27" width="352" height="40" text="Isto se nos da para facer o ranking" measuredWidth="352" measuredHeight="40">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="17" y="429" text="Creación de empleo en Vigo" measuredWidth="207" measuredHeight="25" foreground="#10970f">
+      <font size="14" bold="true" underline="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="273" y="39" text="jodido" measuredWidth="51" measuredHeight="25" foreground="#ff0000">
+      <font size="14" bold="true" underline="true"/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="824" text="Vigo (1201/871)" measuredWidth="93" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="844" text="Gondomar (7/9)" measuredWidth="90" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="143" y="824" text="Porriño (120/561)" measuredWidth="100" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="143" y="844" text="Nigrán (34/12)" measuredWidth="83" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Link" x="14" y="801" text="El empleo cerca de Vigo" measuredWidth="163" measuredHeight="24">
+      <font size="13" bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="13" y="886" text="¿Eres de ... (Vigo)? Danos tu opinión " measuredWidth="268" measuredHeight="25">
+      <font size="14" bold="true" underline="true"/>
+    </widgets>
+    <widgets xsi:type="model:Note" x="13" y="908" text="(por si al final podemos incluir comentarios o encuesta/valoración, contemplar bloque)" measuredWidth="476" measuredHeight="23">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Note" x="277" y="629" text="Se podría meter algún combo para filtrar ofertas?" measuredWidth="273" measuredHeight="23">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" x="497" y="44" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+    <widgets xsi:type="model:Icon" x="585" y="44" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+    <widgets xsi:type="model:Icon" x="519" y="44" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+    <widgets xsi:type="model:Icon" x="540" y="44" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+    <widgets xsi:type="model:Icon" x="561" y="44" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+    <widgets xsi:type="model:Label" x="1" y="2" text="CÓMO ESTÁ EL PANORAMA... ?!!" measuredWidth="330" measuredHeight="31">
+      <font size="20" bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:WidgetGroup" x="217" y="213" measuredWidth="396" measuredHeight="24">
+      <widgets xsi:type="model:Button" x="158" y="1" width="86" text="localidad" measuredWidth="86" measuredHeight="23">
+        <font/>
+      </widgets>
+      <widgets xsi:type="model:Combo" x="258" y="2" text="Gondomar" measuredWidth="81" measuredHeight="21">
+        <font/>
+      </widgets>
+      <widgets xsi:type="model:Button" x="360" text="OK" measuredWidth="36" measuredHeight="23">
+        <font/>
+      </widgets>
+      <widgets xsi:type="model:Button" y="1" width="146" text="Compara Vigo con..." measuredWidth="146" measuredHeight="23">
+        <font/>
+      </widgets>
+    </widgets>
+    <widgets xsi:type="model:Button" x="567" y="985" text="Enviar" measuredWidth="53" measuredHeight="23" background="#6fa8dc">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:TextField" x="13" y="935" text="tu e-mail" measuredWidth="60" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:TextField" x="83" y="935" text="tu nombre" measuredWidth="66" measuredHeight="21">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:TextArea" x="13" y="966" width="549" height="41" text="tu comentario" measuredWidth="549" measuredHeight="41">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Menu" x="492" text="&amp;Sobre el proyecto," measuredWidth="124" measuredHeight="23">
+      <items x="5" y="0" width="104" height="23" text="&amp;Sobre el proyecto"/>
+      <items x="109" y="0" width="10" height="23"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Label" x="724" y="53" text="cerrar comparación" measuredWidth="118" measuredHeight="23">
+    <font size="12"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" x="702" y="56" measuredWidth="16" measuredHeight="16" icon="delete (small)"/>
+  <hRuler/>
+  <vRuler>
+    <guides position="561"/>
+  </vRuler>
+  <font/>
+</model:Screen>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Panel" x="56" y="118" width="545" height="59" measuredWidth="545" measuredHeight="59"/>
+  <widgets xsi:type="model:Browser" x="32" y="24" width="665" height="641" text="Browser&#xA;http://comoestaelpanorama.com" measuredWidth="665" measuredHeight="641"/>
+  <widgets xsi:type="model:Panel" x="56" y="118" width="461" height="355" measuredWidth="461" measuredHeight="355"/>
+  <widgets xsi:type="model:Panel" x="56" y="480" width="461" height="169" measuredWidth="461" measuredHeight="169"/>
+  <widgets xsi:type="model:Text" x="67" y="131" width="276" height="31" text="De que va este proyecto?" measuredWidth="276" measuredHeight="31" dummyText="true">
+    <font size="20"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="56" y="85" text="CÓMO ESTÁ EL PANORAMA... ?!!" measuredWidth="330" measuredHeight="31">
+    <font size="20" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="65" y="161" width="436" height="300" measuredWidth="436" measuredHeight="300" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" x="286" y="490" width="57" height="75" measuredWidth="57" measuredHeight="75" background="#9fc5e8" alpha="192" border="none">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" x="294" y="504" measuredWidth="213" measuredHeight="56">
+    <widgets xsi:type="model:Label" text="Javisan" measuredWidth="40" measuredHeight="56" textAlignment="Center" icon="smile (large)" iconPosition="top">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="49" text="Damián" measuredWidth="44" measuredHeight="56" textAlignment="Center" icon="smile (large)" iconPosition="top">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="111" text="Paula" measuredWidth="32" measuredHeight="56" textAlignment="Center" icon="smile (large)" iconPosition="top">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Label" x="157" text="JaviMartín" measuredWidth="56" measuredHeight="56" textAlignment="Center" icon="smile (large)" iconPosition="top">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:TextArea" x="524" y="118" width="162" height="531" text="twitter" measuredWidth="162" measuredHeight="531">
+    <font size="48"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" x="56" y="562" width="460" measuredWidth="460" measuredHeight="6"/>
+  <widgets xsi:type="model:Text" x="67" y="576" width="440" height="63" measuredWidth="440" measuredHeight="63" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="65" y="490" text="El Equipo" measuredWidth="113" measuredHeight="36">
+    <font size="24"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="67" y="519" text="AguaMojada" measuredWidth="161" measuredHeight="38">
+    <font size="26"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

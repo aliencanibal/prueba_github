@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Panel" x="56" y="118" width="545" height="59" measuredWidth="545" measuredHeight="59"/>
+  <widgets xsi:type="model:Browser" x="32" y="24" width="665" height="713" text="Browser&#xA;http://comoestaelpanorama.com" measuredWidth="665" measuredHeight="713"/>
+  <widgets xsi:type="model:Panel" x="56" y="118" width="601" height="355" measuredWidth="601" measuredHeight="355"/>
+  <widgets xsi:type="model:Map" x="66" y="176" width="576" height="261" measuredWidth="576" measuredHeight="261"/>
+  <widgets xsi:type="model:Callout" x="208" y="214" width="53" height="51" text="120/45" measuredWidth="53" measuredHeight="51" background="#ff9900">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Callout" x="481" y="180" text="7/9" measuredWidth="31" measuredHeight="31" background="#10970f">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Callout" x="344" y="352" text="1201/871" measuredWidth="68" measuredHeight="68" background="#ff0000">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" x="56" y="480" width="294" height="81" measuredWidth="294" measuredHeight="81"/>
+  <widgets xsi:type="model:Panel" x="360" y="480" width="297" height="81" measuredWidth="297" measuredHeight="81"/>
+  <widgets xsi:type="model:Panel" x="56" y="576" width="193" height="139" measuredWidth="193" measuredHeight="139"/>
+  <widgets xsi:type="model:Panel" x="260" y="576" width="193" height="139" measuredWidth="193" measuredHeight="139"/>
+  <widgets xsi:type="model:Panel" x="464" y="576" width="193" height="139" measuredWidth="193" measuredHeight="139"/>
+  <widgets xsi:type="model:Label" x="280" y="588" text="¿Dudas entre varios sitios?" measuredWidth="147" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="280" y="608" text="COMPARA!" measuredWidth="63" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="496" y="584" text="FACEBOOK EMBEBIDO" measuredWidth="121" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="66" y="484" text="... en ESPAÑA" measuredWidth="126" measuredHeight="29">
+    <font size="18" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="365" y="484" text="... en (nombre CCAA)" measuredWidth="196" measuredHeight="29">
+    <font size="18" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="246" y="535" text="Ver mapa España" measuredWidth="97" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="550" y="535" text="Ver mapa Galicia" measuredWidth="95" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="65" y="583" text="RANKING" measuredWidth="55" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Callout" x="517" y="436" text="5%" measuredWidth="26" measuredHeight="26" background="#38761d">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Callout" x="563" y="436" text="10%" measuredWidth="34" measuredHeight="34" background="#ff9900">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Callout" x="607" y="436" text="25%" measuredWidth="34" measuredHeight="34" background="#ff0000">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="387" y="444" text="Equivalencias colores: " measuredWidth="126" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="112" y="508" text="XXXXX" measuredWidth="49" measuredHeight="25" foreground="#ff0000">
+    <font size="14"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="276" y="505" text="XXXX" measuredWidth="41" measuredHeight="25" foreground="#93c47d">
+    <font size="14"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="67" y="512" text="parados:" measuredWidth="39" measuredHeight="18">
+    <font size="8"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="210" y="512" text="ofertas trabajo:" measuredWidth="65" measuredHeight="18">
+    <font size="8"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="417" y="508" text="XXXXX" measuredWidth="49" measuredHeight="25" foreground="#ff0000">
+    <font size="14"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="577" y="507" text="XXXX" measuredWidth="41" measuredHeight="25" foreground="#93c47d">
+    <font size="14"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="372" y="512" text="parados:" measuredWidth="39" measuredHeight="18">
+    <font size="8"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="515" y="512" text="ofertas trabajo:" measuredWidth="65" measuredHeight="18">
+    <font size="8"/>
+  </widgets>
+  <widgets xsi:type="model:Combo" x="280" y="633" text="VIGO" measuredWidth="51" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" x="349" y="633" text="GONDOMAR" measuredWidth="90" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="71" y="629" width="90" text="Municipio X     " measuredWidth="90" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="61" y="608" text="Los mejores sitios  " measuredWidth="109" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="178" y="608" text="Los peores" measuredWidth="61" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" x="67" y="141" width="300" height="31" text="Para ayudarte a decidir dónde buscar chollo &#xA;te contamos como está el panorama en..." measuredWidth="300" measuredHeight="31" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="66" y="118" text="... en TU LOCALIDAD" measuredWidth="173" measuredHeight="26">
+    <font size="16" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Note" x="657" y="453" text="No sé si estaría bien meter en el pie las equivalencias del gráfico&#xA;" measuredWidth="356" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Circle" x="306" y="221" width="60" height="60" measuredWidth="60" measuredHeight="60" background="#ff9900">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="320" y="233" text="P: 45" measuredWidth="33" measuredHeight="21">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="318" y="248" text="O: 345" measuredWidth="43" measuredHeight="21" foreground="#0000ff">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="276" y="437" text="P: Cifra parados" measuredWidth="95" measuredHeight="21">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="275" y="452" text="O: Cifra ofertas" measuredWidth="92" measuredHeight="21" foreground="#0000ff">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" x="166" y="629" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="181" y="629" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="196" y="629" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="211" y="629" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="226" y="629" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Label" x="72" y="647" width="90" text="Municipio X     " measuredWidth="90" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" x="167" y="647" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="182" y="647" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="197" y="647" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="212" y="647" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="227" y="647" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Label" x="74" y="664" width="90" text="Municipio X     " measuredWidth="90" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" x="169" y="664" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="184" y="664" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="199" y="664" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="214" y="664" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="229" y="664" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Label" x="74" y="682" width="90" text="Municipio X     " measuredWidth="90" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" x="169" y="682" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="184" y="682" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Hotspot" x="306" y="133" width="339" measuredWidth="339" measuredHeight="30"/>
+  <widgets xsi:type="model:Icon" x="199" y="682" measuredWidth="16" measuredHeight="16" foreground="#ff9900" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="214" y="682" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:Icon" x="229" y="682" measuredWidth="16" measuredHeight="16" icon="favorites (small)"/>
+  <widgets xsi:type="model:TextField" x="280" y="665" text="poblacion 1" measuredWidth="73" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" x="360" y="664" text="poblacion 2" measuredWidth="73" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="411" y="688" text="OK" measuredWidth="36" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" x="316" y="139" text="localidad" measuredWidth="58" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" x="405" y="139" text="VIGO" measuredWidth="51" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" x="460" y="138" text="+ información de este municipio" measuredWidth="178" measuredHeight="21">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" x="56" y="85" measuredWidth="602" measuredHeight="31">
+    <widgets xsi:type="model:Label" text="CÓMO ESTÁ EL PANORAMA... ?!!" measuredWidth="330" measuredHeight="31">
+      <font size="20" bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Menu" x="478" y="4" text="&amp;Sobre el proyecto," measuredWidth="124" measuredHeight="23">
+      <items x="5" y="0" width="104" height="23" text="&amp;Sobre el proyecto"/>
+      <items x="109" y="0" width="10" height="23"/>
+    </widgets>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
